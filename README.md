@@ -1,4 +1,4 @@
-# Hi!👋 I am Penne🍝
+<h1 align=center># Hi!👋 I am Penne🍝</h1>
 
 - ### I'm a student who writes code as a hobby.
 ---
