@@ -1,6 +1,6 @@
-<h1 align=center># Hi!👋 I am Penne🍝</h1>
+<h1 align=center>Hi!👋 I'm Penne🍝</h1>
 
-- ### I'm a student who writes code as a hobby.
+<h2>I'm a student who writes code as a hobby.</h2>
 ---
 ##### My immediate goal is to improve these appalling scores. ↓
 <!-- hehe, you saw this messy source code(?), didn't you? -->
