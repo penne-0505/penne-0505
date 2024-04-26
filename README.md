@@ -1,7 +1,7 @@
 # Hi!👋
 
 - ### I'm a student who writes code as a hobby.
-- ### Well, take a look at these crappy stats of mine if you want ↓
+- ##### My immediate goal is to improve these appalling scores. ↓
 
 <!-- hehe, you saw this messy source code(?), didn't you? -->
 [![penne's GitHub stats](https://github-readme-stats.vercel.app/api?username=penne-0505&show_icons=true&count_private=true&title_color=F2BF5E&bg_color=272727&icon_color=5E9FF2&text_color=FDFDFD&hide_border=true&include_all_commits=true&hide=contribs,issues,)](https://github.com/anuraghazra/github-readme-stats)
