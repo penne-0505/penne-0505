@@ -1,3 +1,3 @@
 # Hi!👋
 
-![My Stats](https://readme-status-clone-7rxz.vercel.app/api?username=penne-0505&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=penne-0505)](https://github.com/anuraghazra/github-readme-stats)
