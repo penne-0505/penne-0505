@@ -29,6 +29,6 @@
   <a href='https://github.com/SAWARATSUKI/ServiceLogos'>
     <img align='center' width=280 src='https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Html/HTML.png?raw=true' />
   </a>
-  <h3>(I'm really looking forward to him creating a VSCode or a Docker logo!)</h3>
+  <p>(I'm really looking forward to him creating a VSCode or a Docker logo!)</p>
 </div>
-<p>The creator of this awesome 'Kawaii' logo is <a href="https://twitter.com/sawaratsuki1004">@sawaratsuki1004</a> He has created many other cute logos!</p>
+<h3>The creator of this awesome 'Kawaii' logo is <a href="https://twitter.com/sawaratsuki1004">@sawaratsuki1004</a> He has created many other cute logos!</h3>
