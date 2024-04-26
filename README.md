@@ -11,6 +11,6 @@
 </a>
 
 <h2 align='start'>My Skills/Likes</h2>
-<a>
-  <img align='center' src='https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Python/Python.png?raw=true' />
+<a herf='https://github.com/SAWARATSUKI/ServiceLogos'>
+  <img align='center' width=280 src='https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Python/Python.png?raw=true' />
 </a>
