@@ -1,3 +1,2 @@
 Hi!👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penne-0505
-)](https://github.com/anuraghazra/github-readme-stats)
+![My Stats](https://readme-status-clone-7rxz.vercel.app/api)
