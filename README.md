@@ -29,6 +29,4 @@
   <a href='https://github.com/SAWARATSUKI/ServiceLogos'>
     <img align='center' width=280 src='https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Html/HTML.png?raw=true' />
   </a>
-  
-  <!-- 他の画像リンクがあればここに続けて追加 -->
 </div>
