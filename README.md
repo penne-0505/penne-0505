@@ -1,7 +1,7 @@
 <h1 align='center'>Hi!👋 I'm Penne🍝</h1>
 
 <h2 align='center'>I'm a student who writes code as a hobby.</h2><br /><br />
-<h2>My terrible stats🥲</h2>
+<h1>My terrible stats🥲</h1>
 <!-- hehe, you saw this messy source code(?), didn't you? -->
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href='https://github.com/anuraghazra/github-readme-stats'>
@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<h2 align='start'>I Use/Like</h2>
+<h1 align='start'>I Use/Like</h1>
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px; justify-items: center;">
   <a href='https://github.com/SAWARATSUKI/ServiceLogos'>
     <img align='center' width=280 src='https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Python/Python.png?raw=true' />
