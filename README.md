@@ -30,3 +30,4 @@
     <img align='center' width=280 src='https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Html/HTML.png?raw=true' />
   </a>
 </div>
+<p>The creator of this awesome 'Kawaii' logo is ![@sawaratsuki1004!](https://twitter.com/sawaratsuki1004) He has created many other cute logos!</p>
