@@ -43,4 +43,4 @@
     <img align='center' width=280 src='https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Discord/Discord.png?raw=true' />
   </a>
 </div>
-<h3>The creator of this awesome Kawaii logo is <a href="https://twitter.com/sawaratsuki1004">@sawaratsuki1004</a>(linked is on twitter) He has created many other cute logos!</h3>
+<h3>The creator of this awesome Kawaii logo is <a href="https://github.com/SAWARATSUKI">@sawaratsuki1004</a> He has created many other cute logos!</h3>
