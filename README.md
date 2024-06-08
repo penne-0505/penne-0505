@@ -9,39 +9,6 @@
   </a>
   <!-- この下のhideで隠す言語設定 -->
   <a href='https://github.com/anuraghazra/github-readme-stats'>
-    <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=penne-0505&layout=compact&title_color=F2BF5E&bg_color=272727&icon_color=5E9FF2&text_color=FDFDFD&hide_border=true'/>
+    <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=penne-0505&layout=compact&title_color=F2BF5E&bg_color=272727&icon_color=5E9FF2&text_color=FDFDFD&hide_border=true&hide=c++,cmake'/>
   </a>
 </div>
-
-<!--
-<h1 align='start'>I Use/Like</h1>
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px; justify-items: center;">
-  <a href='https://github.com/SAWARATSUKI/ServiceLogos'>
-    <img align='center' width=280 src='https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Python/Python.png?raw=true' />
-  </a>
-
-  <a href='https://github.com/SAWARATSUKI/ServiceLogos'>
-    <img align='center' width=280 src='https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Flutter/FlutterTransparent.png?raw=true' />
-  </a>
-
-  <a href='https://github.com/SAWARATSUKI/ServiceLogos'>
-    <img align='center' width=280 src='https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Figma/Figma.png?raw=true' />
-  </a>
-
-  <a href='https://github.com/SAWARATSUKI/ServiceLogos'>
-    <img align='center' width=280 src='https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Html/HTML.png?raw=true' />
-  </a>
-  
-  <a href='https://github.com/SAWARATSUKI/ServiceLogos'>
-    <img align='center' width=280 src='https://github.com/SAWARATSUKI/ServiceLogos/blob/main/VisualStudioCode/VisualStudioCode.png?raw=true' />
-  </a>
-
-  <a href='https://github.com/SAWARATSUKI/ServiceLogos'>
-    <img align='center' width=280 src='https://github.com/SAWARATSUKI/ServiceLogos/blob/main/GitHub/GitHub.png?raw=true' />
-  </a>
-
-  <a href='https://github.com/SAWARATSUKI/ServiceLogos'>
-    <img align='center' width=280 src='https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Discord/Discord.png?raw=true' />
-  </a>
-</div>
-<h3>The creator of this awesome Kawaii logo is <a href="https://github.com/SAWARATSUKI">@sawaratsuki1004</a> He has created many other cute logos!</h3>
