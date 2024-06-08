@@ -9,6 +9,6 @@
   </a>
   <!-- この下のhideで隠す言語設定 -->
   <a href='https://github.com/anuraghazra/github-readme-stats'>
-    <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=penne-0505&layout=compact&title_color=F2BF5E&bg_color=272727&icon_color=5E9FF2&text_color=FDFDFD&hide_border=true&hide=c++,cmake'/>
+    <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=penne-0505&layout=compact&title_color=F2BF5E&bg_color=272727&icon_color=5E9FF2&text_color=FDFDFD&hide_border=true&hide=cpp,cmake'/>
   </a>
 </div>
